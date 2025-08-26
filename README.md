@@ -34,4 +34,4 @@ Each project folder contains:
 - **Tech**: Scikit-learn (Linear Regression, Decision Tree, Random Forest, etc.).  
 - **Result**: Compared multiple models and selected the most accurate one for wind prediction.
 
-- 
+
