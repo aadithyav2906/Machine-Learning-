@@ -16,7 +16,7 @@ Each project folder contains:
 
 ### 1️⃣ Diabetes Prediction 🩺  
 - **Goal**: Predict whether a patient has diabetes based on health features.  
-- **Tech**: Scikit-learn ( SVM,SVC).  
+- **Tech**: Scikit-learn ( SVM,SVC,Train Test Split).  
 - **Result**: Achieved 0.798 accuracy
 
 ### 2️⃣ H2O AutoML ⚡  
@@ -24,3 +24,14 @@ Each project folder contains:
 - **Tech**: H2O AutoML framework.  
 - **Result**: Compared multiple algorithms automatically and selected the best model.
 
+### 3️⃣ Mine or Rock Prediction ⛏️  
+- **Goal**: Classify whether an object detected by sonar is a **Mine (explosive)** or a **Rock (non-explosive)**.  
+- **Tech**: Scikit-learn (Linear Regression,Train Test Split)
+- **Result**: Achieved 0.88 accuracy .
+
+### 4️⃣ Wind Data Prediction 🌬️  
+- **Goal**: Predict wind-related parameters using live wind data and identify the best-performing ML model.  
+- **Tech**: Scikit-learn (Linear Regression, Decision Tree, Random Forest, etc.).  
+- **Result**: Compared multiple models and selected the most accurate one for wind prediction.
+
+- 
